@@ -11,4 +11,5 @@ Create a React app where:
 - Use the standard built-in HTML audio player (not a third party player)
 
 <h2>Solution: </h2>
-![Screenshot (2623)](https://github.com/VISHNU-2003/IOT-Music_App/assets/87386224/cf996300-a033-47cb-bec7-4ad991a622cd)
+![image](https://github.com/VISHNU-2003/IOT-Music_App/assets/87386224/482e59bf-cf8f-4bed-931b-fe962969195f)
+
